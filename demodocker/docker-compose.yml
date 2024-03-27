@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  demodocker:
+    image: ${DOCKER_REGISTRY-}demodocker
+    build:
+      context: .
+      dockerfile: demodocker/Dockerfile

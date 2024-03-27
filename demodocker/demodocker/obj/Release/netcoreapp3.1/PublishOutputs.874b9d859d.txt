@@ -1,0 +1,7 @@
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\PubTmp\Out\demodocker.exe
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\PubTmp\Out\demodocker.dll
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\PubTmp\Out\demodocker.deps.json
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\PubTmp\Out\demodocker.runtimeconfig.json
+C:\Users\paramveersisodiya\OneDrive - Nagarro\Desktop\mydemo\demodocker\demodocker\obj\Release\netcoreapp3.1\PubTmp\Out\demodocker.pdb
